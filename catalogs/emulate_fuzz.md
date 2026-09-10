@@ -86,6 +86,10 @@ _28 entries_
   tags: `paper-repro, lab-usable`  
   smoke: Research lab.
 
+- **[ecmo](https://github.com/valour01/ecmo)** ★17 — ECMO — peripheral transplantation for IoT firmware emulation (CCS 2021).  
+  tags: `paper-repro, lab-usable`  
+  smoke: Research rehosting.
+
 - **[VFuzz-public](https://github.com/CNK2100/VFuzz-public)** ★15 — VFuzz public release materials.  
   tags: `paper-repro`  
   smoke: Paper-oriented.
@@ -109,7 +113,3 @@ _28 entries_
 - **[FirmAE-pro](https://github.com/Blackhole23-Lab/FirmAE-pro)** ★1 — FirmAE-pro fork with multi-kernel/ARM64 claims.  
   tags: `lab-usable`  
   smoke: Early fork.
-
-- **[ECMO (index)](https://scholar.google.com/scholar?q=ECMO+firmware+emulation)** ★? — ECMO full-system IoT firmware emulation (literature index; no clear GH hit).  
-  tags: `paper-repro`  
-  smoke: INDEX ONLY — public repo not located 2026-09-10.
