@@ -1,6 +1,6 @@
 # emulate_fuzz
 
-_28 entries_
+_33 entries_
 
 - **[unicorn](https://github.com/unicorn-engine/unicorn)** ★9315 — CPU emulator framework (ARM/MIPS/...).  
   tags: `lab-usable, paper-repro, reference-impl`  
@@ -66,6 +66,10 @@ _28 entries_
   tags: `lab-usable, paper-repro`  
   smoke: Python toolkit.
 
+- **[BaseSAFE](https://github.com/fgsect/BaseSAFE)** ★171 — Emulation and Feedback Fuzzing of Firmware with Memory Sanitization  
+  tags: `paper-repro, lab-usable`  
+  smoke: None
+
 - **[halucinator](https://github.com/embedded-sec/halucinator)** ★166 — HALucinator — replace HALs to emulate embedded FW.  
   tags: `paper-repro, lab-usable`  
   smoke: Research; fringe MCU-leaning.
@@ -74,6 +78,10 @@ _28 entries_
   tags: `paper-repro`  
   smoke: Paper-oriented.
 
+- **[FirmFuzz](https://github.com/HexHive/FirmFuzz)** ★87 — Automated IoT firmware fuzzing framework.  
+  tags: `paper-repro, lab-usable`  
+  smoke: None
+
 - **[avatar-python](https://github.com/avatarone/avatar-python)** ★84 — Legacy Avatar Python bindings.  
   tags: `paper-repro`  
   smoke: Superseded by avatar2.
@@ -81,6 +89,18 @@ _28 entries_
 - **[DICE-DMA-Emulation](https://github.com/RiS3-Lab/DICE-DMA-Emulation)** ★67 — DICE DMA emulation for firmware fuzzing research.  
   tags: `paper-repro`  
   smoke: Paper artifact.
+
+- **[Snipuzz](https://github.com/XtEsco/Snipuzz)** ★57 — a blackbox network fuzzer for IoT devices  
+  tags: `paper-repro, lab-usable`  
+  smoke: None
+
+- **[DIANE](https://github.com/ucsb-seclab/diane)** ★42 — DiAne is a smart fuzzer for IoT devices  
+  tags: `paper-repro, lab-usable`  
+  smoke: None
+
+- **[FIRMCORN](https://github.com/FIRMCORN-Fuzzing/FIRMCORN)** ★32 — FIRMCORN from survey gap-fill  
+  tags: `paper-repro, lab-usable`  
+  smoke: None
 
 - **[FirmSolo](https://github.com/BUseclab/FirmSolo)** ★22 — FirmSolo — automate custom kernel building for FW emulation.  
   tags: `paper-repro, lab-usable`  
