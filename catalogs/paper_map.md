@@ -1,6 +1,6 @@
 # paper_map
 
-_12 entries_
+_13 entries_
 
 - **[Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded)** ★9093 — Awesome Embedded general resources.  
   tags: `paper-repro`  
@@ -37,6 +37,10 @@ _12 entries_
 - **[IOT_Articles_Collection](https://github.com/H4lo/IOT_Articles_Collection)** ★194 — IoT articles collection.  
   tags: `paper-repro`  
   smoke: Index.
+
+- **[Firmware-Analysis-Papers](https://github.com/onehouwong/Firmware-Analysis-Papers)** ★83 — Curated firmware analysis paper list (conf venues).  
+  tags: `paper-repro`  
+  smoke: Reading index only.
 
 - **[awesome-iot-security-resource](https://github.com/f1tao/awesome-iot-security-resource)** ★77 — Awesome IoT security exploit/resources.  
   tags: `paper-repro`  

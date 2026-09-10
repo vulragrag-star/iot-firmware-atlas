@@ -1,6 +1,6 @@
 # emulate_fuzz
 
-_26 entries_
+_27 entries_
 
 - **[unicorn](https://github.com/unicorn-engine/unicorn)** ★9315 — CPU emulator framework (ARM/MIPS/...).  
   tags: `lab-usable, paper-repro, reference-impl`  
@@ -93,6 +93,10 @@ _26 entries_
 - **[FirmAFL_2020](https://github.com/zyw-200/FirmAFL_2020)** ★13 — FIRM-AFL 2020 materials/updates.  
   tags: `paper-repro`  
   smoke: Research.
+
+- **[Pandawan](https://github.com/BUseclab/Pandawan)** ★12 — Pandawan — holistic Linux IoT firmware rehosting (USENIX Sec 2024).  
+  tags: `paper-repro, lab-usable`  
+  smoke: Docker artifact; heavy VM.
 
 - **[FACT_firmadyne_analysis_plugin](https://github.com/fkie-cad/FACT_firmadyne_analysis_plugin)** ★8 — FACT plugin integrating Firmadyne emulation.  
   tags: `lab-usable`  
