@@ -1,6 +1,6 @@
 # emulate_fuzz
 
-_27 entries_
+_28 entries_
 
 - **[unicorn](https://github.com/unicorn-engine/unicorn)** ★9315 — CPU emulator framework (ARM/MIPS/...).  
   tags: `lab-usable, paper-repro, reference-impl`  
@@ -109,3 +109,7 @@ _27 entries_
 - **[FirmAE-pro](https://github.com/Blackhole23-Lab/FirmAE-pro)** ★1 — FirmAE-pro fork with multi-kernel/ARM64 claims.  
   tags: `lab-usable`  
   smoke: Early fork.
+
+- **[ECMO (index)](https://scholar.google.com/scholar?q=ECMO+firmware+emulation)** ★? — ECMO full-system IoT firmware emulation (literature index; no clear GH hit).  
+  tags: `paper-repro`  
+  smoke: INDEX ONLY — public repo not located 2026-09-10.
