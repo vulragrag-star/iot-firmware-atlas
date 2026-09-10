@@ -1,0 +1,21 @@
+{"id": "craigz28_firmwalker", "name": "firmwalker", "url": "https://github.com/craigz28/firmwalker", "reason": "repo unavailable / out of fetch; use surviving firmwalker forks", "sources": ["seed"]}
+{"id": "chipsec_chipsec", "name": "chipsec", "url": "https://github.com/chipsec/chipsec", "reason": "UEFI/platform assessment → uefi-firmware-atlas", "sources": ["domain-fences"]}
+{"id": "longsoft_uefitool", "name": "UEFITool", "url": "https://github.com/LongSoft/UEFITool", "reason": "UEFI image tool → uefi-firmware-atlas", "sources": ["domain-fences"]}
+{"id": "tianocore_edk2", "name": "edk2", "url": "https://github.com/tianocore/edk2", "reason": "UEFI reference → uefi-firmware-atlas", "sources": ["domain-fences"]}
+{"id": "google_syzkaller", "name": "syzkaller", "url": "https://github.com/google/syzkaller", "reason": "Linux kernel fuzzer → linux-kernel-atlas", "sources": ["domain-fences"]}
+{"id": "a13xp0p0v_kernel-hardening-checker", "name": "kernel-hardening-checker", "url": "https://github.com/a13xp0p0v/kernel-hardening-checker", "reason": "Linux kernel hardening → linux-kernel-atlas", "sources": ["domain-fences"]}
+{"id": "the-z-labs_linux-exploit-suggester", "name": "linux-exploit-suggester", "url": "https://github.com/The-Z-Labs/linux-exploit-suggester", "reason": "Linux LPE suggester → linux-kernel-atlas", "sources": ["domain-fences"]}
+{"id": "zephyrproject-rtos_zephyr", "name": "zephyr", "url": "https://github.com/zephyrproject-rtos/zephyr", "reason": "Zephyr RTOS primary → rtos-firmware-atlas", "sources": ["domain-fences"]}
+{"id": "freertos_freertos", "name": "FreeRTOS", "url": "https://github.com/FreeRTOS/FreeRTOS", "reason": "FreeRTOS → rtos-firmware-atlas", "sources": ["domain-fences"]}
+{"id": "rt-thread_rt-thread", "name": "rt-thread", "url": "https://github.com/RT-Thread/rt-thread", "reason": "RT-Thread RTOS → rtos-firmware-atlas", "sources": ["domain-fences"]}
+{"id": "espressif_esp-idf", "name": "esp-idf", "url": "https://github.com/espressif/esp-idf", "reason": "ESP-IDF MCU framework → mcu-firmware-atlas", "sources": ["domain-fences"]}
+{"id": "mcu-tools_mcuboot", "name": "mcuboot", "url": "https://github.com/mcu-tools/mcuboot", "reason": "MCU bootloader → mcu-firmware-atlas", "sources": ["domain-fences"]}
+{"id": "openocd-org_openocd", "name": "openocd", "url": "https://github.com/openocd-org/openocd", "reason": "On-chip debug primarily MCU → mcu-firmware-atlas (HW acquire fringe only)", "sources": ["domain-fences"]}
+{"id": "newaetech_chipwhisperer", "name": "chipwhisperer", "url": "https://github.com/newaetech/chipwhisperer", "reason": "Side-channel HW → mcu/hardware, not IoT Linux FW atlas", "sources": ["domain-fences"]}
+{"id": "riverloopsec_killerbee", "name": "killerbee", "url": "https://github.com/riverloopsec/killerbee", "reason": "ZigBee RF toolkit → protocol/HW, not FW unpack/emulate core", "sources": ["domain-fences"]}
+{"id": "smicallef_spiderfoot", "name": "spiderfoot", "url": "https://github.com/smicallef/spiderfoot", "reason": "OSINT framework — not firmware analysis", "sources": ["domain-fences"]}
+{"id": "vulhub_vulhub", "name": "vulhub", "url": "https://github.com/vulhub/vulhub", "reason": "Generic vuln docker envs — not IoT firmware dumps", "sources": ["domain-fences"]}
+{"id": "nccgroup_scoutsuite", "name": "ScoutSuite", "url": "https://github.com/nccgroup/ScoutSuite", "reason": "Cloud audit — out of firmware scope", "sources": ["domain-fences"]}
+{"id": "bettercap_bettercap", "name": "bettercap", "url": "https://github.com/bettercap/bettercap", "reason": "Network/BLE Swiss army — not FW image analysis core", "sources": ["domain-fences"]}
+{"id": "emsec_hal", "name": "hal", "url": "https://github.com/emsec/hal", "reason": "Gate-level netlist RE — hardware IC, not device FW images", "sources": ["domain-fences"]}
+{"id": "fuzzware-fuzzer_fuzzware", "name": "fuzzware", "url": "https://github.com/fuzzware-fuzzer/fuzzware", "reason": "Primarily bare-metal MCU MMIO fuzz → mcu-firmware-atlas (listed fringe if kept)", "sources": ["domain-fences"]}
