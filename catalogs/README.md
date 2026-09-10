@@ -10,9 +10,15 @@
 - [parse](parse.md) (34)
 - [runtime_assess](runtime_assess.md) (8)
 - [spec](spec.md) (8)
-- [static_re](static_re.md) (24)
+- [static_re](static_re.md) (27)
 - [vuln_intel](vuln_intel.md) (6)
+
+## Themes
+
+- [llm](llm.md)
+
 
 ## Index / UNCERTAIN
 
 - [index_uncertain](index_uncertain.md)
+

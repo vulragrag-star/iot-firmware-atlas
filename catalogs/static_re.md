@@ -1,6 +1,6 @@
 # static_re
 
-_24 entries_
+_27 entries_
 
 - **[ghidra](https://github.com/NationalSecurityAgency/ghidra)** ★74728 — Ghidra SRE framework for arbitrary binaries.  
   tags: `daily-ops, lab-usable, paper-repro`  
@@ -86,6 +86,10 @@ _24 entries_
   tags: `lab-usable, paper-repro`  
   smoke: Python.
 
+- **[FirmAgent](https://github.com/vul337/FirmAgent)** ★77 — FirmAgent — fuzzing-assisted LLM agents for IoT firmware vuln discovery (NDSS 2026).  
+  tags: `paper-repro, lab-usable`  
+  smoke: Needs API keys + rehosted FW; research.
+
 - **[basefind2](https://github.com/soyersoyer/basefind2)** ★60 — Faster firmware base-address scanner.  
   tags: `lab-usable`  
   smoke: CLI.
@@ -93,6 +97,14 @@ _24 entries_
 - **[EmTaint](https://github.com/kuc001/EmTaint)** ★47 — EmTaint — taint analysis for embedded firmware.  
   tags: `paper-repro`  
   smoke: Paper artifact.
+
+- **[firmhive](https://github.com/bjtu-SecurityLab/firmhive)** ★25 — FirmwareHive / FirmHive — runtime-grown Tree-of-Agents for firmware analysis.  
+  tags: `paper-repro, lab-usable`  
+  smoke: LLM keys + FW images; research.
+
+- **[FORGE](https://github.com/bjtu-SecurityLab/FORGE)** ★21 — FORGE — feedback-driven LLM Forest-of-Agents binary/firmware analysis.  
+  tags: `paper-repro, lab-usable`  
+  smoke: Radare2 + LLM keys; research.
 
 - **[SCOUT](https://github.com/R00T-Kim/SCOUT)** ★12 — SCOUT firmware analysis research tooling.  
   tags: `lab-usable, paper-repro`  
